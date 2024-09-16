@@ -21,9 +21,12 @@ Other relevant technical details
 
 We collect transaction-related information related to your activities within our App, which may include:
 
-Last seen time of your use of the App
-Apple receipt file
-Google purchase token
+> Last seen time of your use of the App
+
+> Apple receipt file
+
+> Google purchase token
+
 1.3 Optional End User Information
 If you opt-in or enable certain features, we may collect additional information, including:
 
