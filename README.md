@@ -8,12 +8,17 @@ Welcome to Ord - Scrambled Words: Puzzle (the “App”), operated by Omar AL-Sa
 1. Information We Collect
 
 1.1 End User Technical Information
+
 We may collect technical information related to your device or computer, including:
 
 Device type
+
 Operating system
+
 Other relevant technical details
+
 1.2 End User Transaction Information
+
 We collect transaction-related information related to your activities within our App, which may include:
 
 Last seen time of your use of the App
@@ -39,12 +44,7 @@ RevenueCat: We use RevenueCat for managing in-app purchases and subscriptions. R
 4. Data Security
 We implement reasonable security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is completely secure, so we cannot guarantee absolute security.
 
-5. Your Choices
-You can manage your information and preferences by:
-
-Adjusting settings within the App
-Contacting us for any requests related to your data
-6. Changes to This Privacy Policy
+5. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our App and updating the “Last Updated” date at the top of this Privacy Policy.
 
 7. Contact Us
