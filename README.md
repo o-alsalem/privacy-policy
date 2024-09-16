@@ -35,11 +35,12 @@ Attribution or metadata related to your use of the App
 2. How We Use Your Information
 We use the collected information for various purposes, including:
 
-To provide, operate, and maintain our App
-To process transactions and manage your subscription
-To improve our App and services
-To understand and analyze usage patterns
-To communicate with you, including for customer support and notifications
+>To provide, operate, and maintain our App
+>To process transactions and manage your subscription
+>To improve our App and services
+>To understand and analyze usage patterns
+>To communicate with you, including for customer support and notifications
+
 3. Sharing Your Information
 We do not share your information with third parties except as necessary to provide our services, comply with legal obligations, or protect our rights. We may share information with:
 
