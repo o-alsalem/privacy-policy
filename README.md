@@ -36,9 +36,13 @@ Attribution or metadata related to your use of the App
 We use the collected information for various purposes, including:
 
 >To provide, operate, and maintain our App
+
 >To process transactions and manage your subscription
+
 >To improve our App and services
+
 >To understand and analyze usage patterns
+
 >To communicate with you, including for customer support and notifications
 
 3. Sharing Your Information
